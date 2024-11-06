@@ -1,0 +1,9 @@
+services:
+  api:
+    build: .
+    ports:
+      - "6010:8000"
+    volumes:
+      - .:/app
+    environment:
+      - ENVIROMENT=development

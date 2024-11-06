@@ -1,0 +1,12 @@
+fastapi
+pydantic
+evolutionapi
+pillow
+uvicorn
+python-multipart
+opencv-python
+numpy
+mediapipe
+ultralytics
+
+
